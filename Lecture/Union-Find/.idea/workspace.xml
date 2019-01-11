@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="07698a98-a2bb-4519-af55-265863cbce47" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../Exercise/percolation/src/Percolation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Exercise/percolation/src/PercolationStats.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Exercise/percolation/src/PercolationVisualizer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Exercise/percolation/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Exercise/percolation/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Exercise/percolation/percolation.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Exercise/percolation/percolation.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercise/percolation/out/production/percolation/Percolation.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Exercise/percolation/out/production/percolation/Percolation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercise/percolation/src/Percolation.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Exercise/percolation/src/Percolation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercise/percolation/src/PercolationVisualizer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Exercise/percolation/src/PercolationVisualizer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -47,7 +46,7 @@
         <entry file="file://$PROJECT_DIR$/src/QuickUnionImprove.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="399">
-              <caret line="21" column="17" lean-forward="true" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
+              <caret line="21" column="17" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -86,6 +85,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -102,7 +102,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -136,17 +135,18 @@
       <workItem from="1547031570719" duration="1282000" />
       <workItem from="1547110823611" duration="1248000" />
       <workItem from="1547112148162" duration="1858000" />
+      <workItem from="1547188284289" duration="658000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4388000" />
+    <option name="totallyTimeSpent" value="5046000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25670242" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2600536" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -213,7 +213,7 @@
     <entry file="file://$PROJECT_DIR$/src/QuickUnionImprove.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="399">
-          <caret line="21" column="17" lean-forward="true" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
+          <caret line="21" column="17" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
         </state>
       </provider>
     </entry>
